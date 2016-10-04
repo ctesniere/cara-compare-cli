@@ -1,0 +1,12 @@
+Remarque : Il faut minimum 2 fichier xml en parametre
+
+Usage
+    $ cara-compare ...token.xml
+
+Options
+    --help          # Print this info
+    --version       # Version
+    --onlyDiff      # Seulement se qui est différent
+
+For any issues
+    https://github.com/ctesniere/cara-compare-cli/issues
