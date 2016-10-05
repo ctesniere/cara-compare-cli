@@ -11,3 +11,7 @@
 ```sh
 $ cara-compare token_DEV.xml ../token_PRO.xml
 ```
+
+## Screenshot
+
+![](./media/Screenshot.png)
