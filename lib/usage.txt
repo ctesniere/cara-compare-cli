@@ -4,7 +4,7 @@ Usage
 Options
     --help          # Print this info
     --version       # Version
-    --onlyDiff      # Seulement se qui est différent
+    --only-diff     # Seulement se qui est différent
 
 For any issues
     https://github.com/ctesniere/cara-compare-cli/issues
