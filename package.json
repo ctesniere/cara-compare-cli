@@ -1,6 +1,6 @@
 {
-  "name": "cara-compare",
-  "version": "0.1.6",
+  "name": "cara-compare-cli",
+  "version": "0.1.7",
   "description": "Permet de comparer les fichiers xml de token generer par 'CA Release Automation'",
   "license": "MIT",
   "preferGlobal": true,
