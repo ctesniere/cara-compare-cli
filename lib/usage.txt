@@ -1,5 +1,3 @@
-Remarque : Il faut minimum 2 fichier xml en parametre
-
 Usage
     $ cara-compare ...token.xml
 
