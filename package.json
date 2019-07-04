@@ -7,7 +7,10 @@
   "engines": {
     "node": ">=4"
   },
-  "scripts": {},
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
   "bin": {
     "cara-compare": "lib/cli.js"
   },
@@ -29,6 +32,8 @@
     "lodash": "^4.16.3",
     "meow": "^3.7.0",
     "update-notifier": "^1.0.2",
-    "xml2js": "^0.4.17"
-  }
+    "xml2js": "^0.4.17",
+    "snyk": "^1.189.0"
+  },
+  "snyk": true
 }
